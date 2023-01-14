@@ -1,6 +1,6 @@
 <h1> Hi there, I'm TK 👋</h1>
 
-<p>I’m a Front-end developer based in Tokyo. 🗼</p>
+<p>I’m a front-end engineer based in Tokyo. 🗼</p>
 
 <h2>Where you can find me</h2>
 <p>
