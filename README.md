@@ -12,13 +12,15 @@
   </a> 
   <a href="https://www.linkedin.com/in/takuya-kikuchi" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> 
-  <a href="https://stackoverflow.com/users/18149985/tk" target="_blank">
-    <img alt="Stack overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://codesandbox.io/u/takuyakikuchi" target="_blank">
-    <img alt="CodeSandbox" src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white" />
-  </a> 
+  <!--   
+    <a href="https://stackoverflow.com/users/18149985/tk" target="_blank">
+      <img alt="Stack overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />
+    </a>
+    <a href="https://codesandbox.io/u/takuyakikuchi" target="_blank">
+      <img alt="CodeSandbox" src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white" />
+    </a> 
+  -->
 </p>
 
 <h2>My blogs</h2>
