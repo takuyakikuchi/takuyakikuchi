@@ -20,10 +20,10 @@
   <a href="https://zenn.dev/takuyakikuchi" target="_blank">
     <img alt="Zenn" src="https://img.shields.io/badge/Zenn-3EA8FF.svg?&style=for-the-badge&logo=Zenn&logoColor=white" />
   </a>
-  <a href="https://dev.to/takuyakikuchi" target="_blank">
-    <img alt="Zenn" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
-  </a>
   <a href="https://medium.com/@_takuyakikuchi" target="_blank">
     <img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://sizu.me/takuyakikuchi" target="_blank">
+    <img alt="Sizu.me" src="https://img.shields.io/badge/sizu.me-skyblue" />
   </a>
 </p>
