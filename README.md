@@ -23,7 +23,4 @@
   <a href="https://medium.com/@_takuyakikuchi" target="_blank">
     <img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-  <a href="https://sizu.me/takuyakikuchi" target="_blank">
-    <img alt="Sizu.me" src="https://img.shields.io/badge/sizu.me-skyblue" />
-  </a>
 </p>
