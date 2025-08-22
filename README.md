@@ -6,5 +6,5 @@
 - Bluesky: [@_takuyakikuchi.bsky.social](https://bsky.app/profile/takuyakikuchi.bsky.social)
 
 ### Blogs
-- Medium: [@_tk](https://medium.com/@_tk)
-- Zenn: [TK](https://zenn.dev/takuyakikuchi)
+- Medium(EN): [@_tk](https://medium.com/@_tk)
+- Zenn(JA): [TK](https://zenn.dev/takuyakikuchi)
